@@ -2,7 +2,7 @@
 
 > A simple British train enhancement script for FiveM
 
-![](https://cdn.maxuk.me/train.gif)
+![](https://github.com/ImMaxM/british-trains/blob/master/train.gif)
 
 ## Features
 
