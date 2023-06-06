@@ -2,6 +2,8 @@
 
 > A simple British train enhancement script for FiveM
 
+![|300](https://cdn.maxuk.me/train.gif)
+
 ## Features
 
 - 🚀 Blazingly fast
@@ -13,7 +15,7 @@
 
 > ⚙️ Optional ~ Download and install [**Project London Remastered**](https://www.gta5-mods.com/misc/project-london-remastered-wip-oiv-fivem-beta) for the british train model
 
-1. Download the [**latest release**](https://github.com/ImMaxM/british-trains/releases/latest) from GitHub
+1. Download the [**latest release**](https://github.com) from GitHub
 2. Upload to FiveM resources folder
 3. Add `start trains` to your server.cfg
 
